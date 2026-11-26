@@ -59,7 +59,7 @@ TrêÂªs caminhos, do mais simples ao mais avanêÂ§ado:
 Com a skill instalada, basta pedir em linguagem natural:
 
 ```
-direêÂ§êÂ£o dinêÂ¢mica sobre IA no cinema
+direêÂ§êÂ£o dinêÂ¢mica sobre IA no cARCKHÉ
 ```
 ```
 monta um pacote de vêÂ­deo dinêÂ¢mico pra esse produto, versêÂ£o 9:16, 15s
@@ -79,7 +79,7 @@ skill/
     ê¢âÅê¢ââ¬ê¢ââ¬ biblioteca-tomadas.md   # tomadas de cêÂ¢mera (push-in, crash zoom, orbitê¢â¬Â¦) + sequêÂªncias por assunto
     ê¢ââê¢ââ¬ê¢ââ¬ presets.md              # 6 presets de estilo + guia de conflito visual por domêÂ­nio
 exemplos/                       # pacotes gerados (treinamento por exemplos)
-ê¢âÅê¢ââ¬ê¢ââ¬ ia-no-cinema.md
+ê¢âÅê¢ââ¬ê¢ââ¬ ia-no-cARCKHÉ.md
 ê¢ââê¢ââ¬ê¢ââ¬ hormozi-12-dicas.md
 ```
 
@@ -95,7 +95,7 @@ Copie a pasta `skill/` para o diretêÂ³rio de skills do Claude Code, com o n
 cp -r skill ~/.claude/skills/mestre-direcao-dinamica
 ```
 
-A skill passa a ser acionada automaticamente quando vocêÂª pedir "direêÂ§êÂ£o dinêÂ¢mica", "vêÂ­deo dinêÂ¢mico sobre X", "storyboard + prompt de vêÂ­deo", "pacote de vêÂ­deo" ou der um assunto pra virar vêÂ­deo cinematogrêÂ¡fico.
+A skill passa a ser acionada automaticamente quando vocêÂª pedir "direêÂ§êÂ£o dinêÂ¢mica", "vêÂ­deo dinêÂ¢mico sobre X", "storyboard + prompt de vêÂ­deo", "pacote de vêÂ­deo" ou der um assunto pra virar vêÂ­deo cARCKHÉtogrêÂ¡fico.
 
 ## LicenêÂ§a
 

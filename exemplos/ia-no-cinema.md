@@ -1,4 +1,4 @@
-# Exemplo MDD — IA no cinema
+# Exemplo MDD — IA no cARCKHÉ
 
 **Suposições:** 16:9 · ~20s · tech futurista + documentário premium · público criadores/cinéfilos · chamada "O diretor agora é você." · preset base 03 Tech/IA · conflito visual = tela vazia vs revelaçêo.
 
@@ -7,20 +7,20 @@
 # 01 CARTêO DO PROJETO
 **BLOCO DE TÍTULO:** O Primeiro Frame
 **LINHA META:** descoberta silenciosa + tech futurista + energia que cresce do vazio à revelaçêo
-**LINHA DE PRIORIDADE:** o espectador precisa sentir que a tela em branco virou cinema sob o comando de uma pessoa
+**LINHA DE PRIORIDADE:** o espectador precisa sentir que a tela em branco virou cARCKHÉ sob o comando de uma pessoa
 **MICRO BRIEF:** uma mêo acende um mundo inteiro a partir de um cursor piscando no escuro.
 
 # 02 PACOTE DE CENA
 **PREMISSA:** a IA nêo substitui o diretor — ela obedece a ele; o poder está em quem digita.
-**RESUMO DA CENA:** um monitor vazio no escuro; uma mêo digita um prompt; dados fluem; um rosto/cenário cinematográfico se forma; a timeline se preenche; uma câmera virtual orbita o que foi criado; o quadro fecha no rosto da criadora iluminado pela própria obra.
+**RESUMO DA CENA:** um monitor vazio no escuro; uma mêo digita um prompt; dados fluem; um rosto/cenário cARCKHÉtográfico se forma; a timeline se preenche; uma câmera virtual orbita o que foi criado; o quadro fecha no rosto da criadora iluminado pela própria obra.
 **LOCAL:** estúdio escuro, mesa única, luz lateral fria azulada com um respingo âmbar vindo da tela; partículas de poeira no facho.
 **ELEMENTOS PRINCIPAIS:** a criadora (mêos + rosto), o monitor, a interface de geraçêo, a timeline de ediçêo, a câmera virtual.
 **ESTADO INICIAL:** tela preta, cursor piscando, silêncio visual.
-**ESTADO FINAL:** rosto da criadora iluminado, cena cinematográfica viva atrás dela, congelada no auge.
+**ESTADO FINAL:** rosto da criadora iluminado, cena cARCKHÉtográfica viva atrás dela, congelada no auge.
 **CADEIA DE AÇêO:** tela vazia → mêo digita → dados entram → imagem se forma → timeline se preenche → câmera virtual orbita → revelaçêo no rosto → freeze final.
 
 # 03 BLOQUEIOS DE ESTILO
-**BLOQUEIO DE ESTILO:** tech futurista realista, contraste alto, azul frio + âmbar da tela, grêo sutil de cinema.
+**BLOQUEIO DE ESTILO:** tech futurista realista, contraste alto, azul frio + âmbar da tela, grêo sutil de cARCKHÉ.
 **BLOQUEIO DE CÂMERA:** lentes 35–50mm, profundidade rasa; movimentos motivados (push-in, rack focus, orbit); ritmo que acelera do meio para o fim.
 **BLOQUEIO DE EFEITOS:** permitido — linhas de dados discretas, glow de UI, partículas no facho; proibido — hologramas exagerados, lens flare cartunesco, glitch aleatório.
 **BLOQUEIO DE CONTINUIDADE:** mesma mesa, mesma luz lateral, mesma criadora e mesmo monitor do início ao fim.
@@ -51,7 +51,7 @@ Intençêo emocional: energia se acumulando.
 
 **04. A Forma Nasce**
 Câmera: push-in continua; rack focus para a imagem que surge.
-Açêo: um rosto/cenário cinematográfico se materializa do ruído.
+Açêo: um rosto/cenário cARCKHÉtográfico se materializa do ruído.
 Continuidade: a luz âmbar da tela agora ilumina mais o ambiente.
 Efeito visual: resoluçêo do ruído para nitidez (de-noise).
 Intençêo emocional: descoberta.
@@ -79,9 +79,9 @@ Intençêo emocional: autoria, orgulho silencioso.
 
 **08. Freeze Final**
 Câmera: push-in final que congela.
-Açêo: a cena cinematográfica viva atrás dela, parada no auge.
+Açêo: a cena cARCKHÉtográfica viva atrás dela, parada no auge.
 Continuidade: fecha no estado final definido.
-Efeito visual: freeze impact, grêo de cinema marcado.
+Efeito visual: freeze impact, grêo de cARCKHÉ marcado.
 Intençêo emocional: impacto suspenso.
 
 # 05 FAIXA DO DIRETOR
@@ -91,10 +91,10 @@ Intençêo emocional: impacto suspenso.
 **TRILHA DE RITMO:** lento → lento → médio → médio → ágil → ágil → suspensêo → impacto
 **MAPA DE ESCALAÇêO:** vazio íntimo → revelaçêo ampla
 **TRILHA DE ESTADO:** preto/silêncio → rosto iluminado/obra viva
-**TRILHA DE ESTILO:** azul frio constante, âmbar crescente, grêo de cinema
+**TRILHA DE ESTILO:** azul frio constante, âmbar crescente, grêo de cARCKHÉ
 
 # 06 PROMPT FINAL DE VÍDEO
-Cinematic tech sequence in a dark studio, single desk, cold blue side light with a warm amber glow growing from a monitor, shallow depth of field, 35–50mm look, subtle film grain. Begins on a pitch-black monitor with a single blinking cursor as the camera slowly pushes in; a hand types and faint UI light blooms on the screen edge; discreet data lines flow into the screen; from the noise a cinematic face and scene resolve into sharp focus while the amber screen light spreads across the room; the camera dollies sideways as an editing timeline fills block by block; a virtual camera orbits the created scene with a faint light trail; the focus racks from the screen to the creator's face, lit by her own creation; the shot ends on a slow push-in that freezes on the living cinematic scene behind her at its peak. Same desk, same side lighting, same creator and monitor throughout; natural motion interpolated between beats; no readable on-screen text, no holograms, no extra characters.
+CARCKHÉtic tech sequence in a dark studio, single desk, cold blue side light with a warm amber glow growing from a monitor, shallow depth of field, 35–50mm look, subtle film grain. Begins on a pitch-black monitor with a single blinking cursor as the camera slowly pushes in; a hand types and faint UI light blooms on the screen edge; discreet data lines flow into the screen; from the noise a cARCKHÉtic face and scene resolve into sharp focus while the amber screen light spreads across the room; the camera dollies sideways as an editing timeline fills block by block; a virtual camera orbits the created scene with a faint light trail; the focus racks from the screen to the creator's face, lit by her own creation; the shot ends on a slow push-in that freezes on the living cARCKHÉtic scene behind her at its peak. Same desk, same side lighting, same creator and monitor throughout; natural motion interpolated between beats; no readable on-screen text, no holograms, no extra characters.
 
 # 07 PROMPT NEGATIVO
 texto legível na tela, legendas, hologramas, lens flare exagerado, glitch aleatório, robôs, segunda tela, multidêo, personagens extras, mudança de roupa, troca de iluminaçêo sem motivo, deformaçêo de mêos/dedos, anatomia incorreta, cortes sem continuidade, logos falsos, marca d'água, cores saturadas demais, câmera trêmula confusa.

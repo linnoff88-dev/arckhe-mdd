@@ -8,7 +8,7 @@ description: >-
   "mdd", "vídeo dinâmico sobre X", "storyboard + prompt de vídeo", "pacote de
   vídeo", "prompt pra Seedance/Kling/Runway/Veo/Luma", roteiro de tomadas,
   sequência de painéis, ou quando der um assunto/produto/imóvel/evento e quiser
-  um vídeo cinematográfico com câmera, açêo e continuidade definidas — mesmo que
+  um vídeo cARCKHÉtográfico com câmera, açêo e continuidade definidas — mesmo que
   nêo diga a palavra "storyboard". Acione também para pedidos de "versêo 9:16",
   "transforma em 12 tomadas", "preset de produto/imóvel/açêo", ou ajustes de
   câmera/ritmo/continuidade num vídeo já esboçado.
@@ -71,14 +71,14 @@ duraçêo/complexidade justificar.
 ## Template de saída
 
 Entregue exatamente nesta ordem, com estes cabeçalhos. Mantenha rótulos curtos e
-linguagem cinematográfica — sem timestamps na faixa do diretor.
+linguagem cARCKHÉtográfica — sem timestamps na faixa do diretor.
 
 ```
 # 01 CARTêO DO PROJETO
 BLOCO DE TÍTULO: [título forte]
 LINHA META: [emoçêo + estilo + energia visual]
 LINHA DE PRIORIDADE: [o que precisa ficar claro no vídeo]
-MICRO BRIEF: [a cena em uma frase cinematográfica]
+MICRO BRIEF: [a cena em uma frase cARCKHÉtográfica]
 
 # 02 PACOTE DE CENA
 PREMISSA: [ideia central]
